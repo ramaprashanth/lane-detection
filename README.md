@@ -15,15 +15,15 @@ Place the `challenge_video.mp4` and `project_video.mp4` in the same folder as th
 ## Results
 
   <p align="center">
-  <img src="https://github.com/ramaprashanth/perception-for-autonomous-robots/blob/master/Lane%20Detection/result_1.png">
+  <img src="https://github.com/ramaprashanth/lane-detection/blob/master/result_1.png">
   </p>
 
   <p align="center">
-  <img src="https://github.com/ramaprashanth/perception-for-autonomous-robots/blob/master/Lane%20Detection/result_2.png">
+  <img src="https://github.com/ramaprashanth/lane-detection/blob/master/result_2.png">
   </p>
 
   <p align="center">
-  <img src="https://github.com/ramaprashanth/perception-for-autonomous-robots/blob/master/Lane%20Detection/result_3.png">
+  <img src="https://github.com/ramaprashanth/lane-detection/blob/master/result_3.png">
   </p>
 
 ## Reference
